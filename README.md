@@ -1,5 +1,40 @@
 # Reciclo Mini
 
+# Máquina de Reciclagem de Pequeno Porte
+
+Este projeto visa o desenvolvimento de uma máquina de reciclagem de plástico de pequeno porte, com o objetivo de aumentar a reciclagem em comunidades e reduzir o impacto ambiental.
+
+## Descrição Geral
+
+A máquina é compacta e pode ser facilmente transportada e utilizada em diferentes locais. Ela é capaz de processar diversos tipos de plásticos, triturando-os e transformando-os em filamentos para impressoras 3D ou outros fins. Os principais componentes incluem um motor elétrico, um sistema de trituração e um sistema de extrusão.
+
+## Funcionamento
+
+A máquina funciona em dois módulos: trituração e extrusão. O primeiro módulo tritura os plásticos em pequenos pedaços, enquanto o segundo os derrete e extrai filamentos. Todo o processo é realizado de forma simples e segura, seguindo as instruções do manual.
+
+## Requisitos
+
+Para utilizar a máquina, é necessário ter uma fonte de energia elétrica, espaço para instalação e armazenamento e realizar a manutenção adequada. A máquina também deve ser operada por pessoas capacitadas e seguir todas as normas de segurança.
+
+## Montagem
+
+A montagem da máquina é simples e pode ser realizada com as instruções fornecidas no manual. Imagens e diagramas também estão disponíveis para auxiliar no processo.
+
+## Uso
+
+A máquina deve ser utilizada seguindo as instruções do manual e as normas de segurança. Os cuidados necessários incluem a proteção dos olhos e mãos durante a operação e a limpeza adequada da máquina após o uso.
+
+## Manutenção
+
+Para manter a máquina em bom funcionamento, é necessário realizar a manutenção adequada, incluindo troca de peças e limpeza regular. O manual também contém instruções para solucionar problemas comuns.
+
+## Licença
+
+Este projeto é open-source e utiliza a licença MIT. Todas as informações necessárias para a utilização, modificação e distribuição do projeto estão disponíveis no arquivo LICENSE.
+
+## Contato
+
+Para mais informações ou dúvidas sobre o projeto, entre em contato pelo e-mail.
 Índice:
 
 Introdução
@@ -11,10 +46,6 @@ Uso
 Manutenção
 Licença
 Contato
-
-
-
-
 
 
 1. O Reciclo Mini é uma solução prática e eficiente para a reciclagem de plásticos domésticos do tipo PP e PEAD. Com a capacidade de processar até 1kg de plástico por hora, é a máquina ideal para quem busca uma forma simples e acessível de reciclar resíduos plásticos em casa ou em pequenas empresas.
